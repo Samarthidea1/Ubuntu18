@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "/home/ubuntu/repo ./test/test.js"
+    "test": "./home/ubuntu/repo ./test/test.js"
   }
 }
