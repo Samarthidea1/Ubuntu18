@@ -2,7 +2,7 @@ FROM node:latest
 
 WORKDIR /usr/src/app
 
-COPY  ./
+COPY index.js ./
 
 RUN npm install
 
